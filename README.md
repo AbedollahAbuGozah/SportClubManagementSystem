@@ -9,4 +9,4 @@ see the informations about his upcoming matches
 ### Skills
 * HTML
 * Tailwind 
-* php Laravel
+* PHP Laravel
