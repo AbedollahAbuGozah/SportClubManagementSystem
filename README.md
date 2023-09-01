@@ -7,6 +7,6 @@ trainer can Add and Delete matches and can Add and Dlete player
 see the informations about his upcoming matches
 
 ### Skills
-HTML
-Tailwind 
-php Laravel
+* HTML
+* Tailwind 
+* php Laravel
