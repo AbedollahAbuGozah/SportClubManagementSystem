@@ -8,11 +8,11 @@ And each user can edit his profile page
 The database is created using MySQL database
 #### Tables
 * Matche: has three columns (id, date, Trainer_id)
-* User: has four columns(id, first_name, last_name, role,
+* User: has four columns(id, first_name, last_name, role)
 * Player-match(intermediate table): has two columns(player_id, match_id)
 #### Relations
-* User-Match: Many-to-Many relation so each player has many match and each match has many player(two players)
-
+* Player-Match: Many-to-Many relation so each player belongs to many matches and each match has many players(two players)
+* Trainer-match:One-to-Many each trainer belongs to many matches and each match has one trainer
 ### Skills
 * HTML
 * Tailwind 
