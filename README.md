@@ -8,7 +8,7 @@ And each user can edit his profile page
 The database is created using MySQL database
 #### Tables
 * Matche: has three columns (id, date, Trainer_id)
-* User: has four columns(id, first_name, last_name, role)
+* User: has six columns(id, first_name, last_name, role, email, password)
 * Player-match(intermediate table): has two columns(player_id, match_id)
 #### Relations
 * Player-Match: Many-to-Many relation so each player belongs to many matches and each match has many players(two players)
