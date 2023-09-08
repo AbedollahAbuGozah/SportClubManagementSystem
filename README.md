@@ -7,9 +7,11 @@ And each user can edit his profile page
 ## Database
 The database is created using MySQL database
 #### Tables
-* Matches: have three colums (id, date, Trainer_id)
-* User: have four colums(id, first_name, last_name, role,
-* Player-match(intermediate table): have two colums(player_id, match_id) 
+* Matche: has three columns (id, date, Trainer_id)
+* User: has four columns(id, first_name, last_name, role,
+* Player-match(intermediate table): has two columns(player_id, match_id)
+#### Relations
+1 dasdas
 
 ### Skills
 * HTML
