@@ -11,7 +11,7 @@ The database is created using MySQL database
 * User: has four columns(id, first_name, last_name, role,
 * Player-match(intermediate table): has two columns(player_id, match_id)
 #### Relations
-* dasdas
+* User-Match: Many-to-Many relation so each player has many match and each match has many player(two players)
 
 ### Skills
 * HTML
